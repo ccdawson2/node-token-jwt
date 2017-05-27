@@ -1,0 +1,19 @@
+{
+  "name": "node-token-jwt",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "version": "1.0.0",
+  "description": "Token Authentication Demo",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.2",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
